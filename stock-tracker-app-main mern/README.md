@@ -35,13 +35,6 @@ Stock Search Feature
 Stock Graph Feature
 ![ScreenShot_StockGraph](./client/src/assets/images/ScreenShot_StockGraph.png)
 
-## Contributing
-Contributing Developers:
-- [Ryan Rotman](https://github.com/ryanrotman)
-- [Ji Smith](https://github.com/jiji-smith)
-- [Chason Renz](https://github.com/chasonrenz)
-
-Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at ryan.rotman@gmail.com.
 
 <!-- # Getting Started with Create React App
 
